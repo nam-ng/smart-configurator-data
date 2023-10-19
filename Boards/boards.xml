@@ -252,7 +252,7 @@
     <download uri="https://raw.githubusercontent.com/renesas/smart-configurator-data/08570bc8044a3e605b9204d00f2c2b031c977db6/Boards/TargetBoardRX671_V1.02.bdf"/>
     <download uri="https://raw.githubusercontent.com/renesas/smart-configurator-data/08570bc8044a3e605b9204d00f2c2b031c977db6/Boards/TargetBoardRX671_V1.00.bcdf"/>
   </board>
-  <board id="FPB-R9A02G021" version="1.00" description="Target Board for RISC-V Board Description File" keys="RISC-V">
+  <board id="FPB-R9A02G021" version="1.00" description="Target Board for RISC-V Board Description File" keys="ASSP_RISCV">
     <download uri="https://raw.githubusercontent.com/renesas/smart-configurator-data/75ed028de13509a5484148df785b8b5d882a3536/Boards/FPB-R9A02G021_V1.00.bdf"/>
   </board>
 </boards>
